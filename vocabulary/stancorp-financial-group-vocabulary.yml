@@ -1,0 +1,114 @@
+name: StanCorp Financial Group Vocabulary
+description: >-
+  Vocabulary and taxonomy for StanCorp Financial Group (The Standard), covering
+  group insurance, individual insurance, employee benefits, retirement plans,
+  absence management, and financial products.
+created: '2026-05-02'
+modified: '2026-05-02'
+terms:
+  - term: Group Disability Insurance
+    definition: >-
+      Employer-sponsored insurance covering a portion of an employee's income
+      when they cannot work due to illness or injury. The Standard offers both
+      short-term disability (STD) and long-term disability (LTD) products.
+    tags: [Insurance, Employee Benefits, Disability]
+
+  - term: Individual Disability Insurance
+    definition: >-
+      Disability income protection purchased by individuals (often self-employed
+      professionals) rather than through an employer group plan. Replaces a
+      portion of income during disability.
+    tags: [Insurance, Disability, Individual]
+
+  - term: Elimination Period
+    definition: >-
+      The waiting period between the onset of a disability and the start of
+      disability benefit payments. Common elimination periods are 30, 60, 90,
+      or 180 days for short-term disability and 90 or 180 days for long-term.
+    tags: [Insurance, Disability, Terms]
+
+  - term: Benefit Period
+    definition: >-
+      The maximum duration during which disability benefits are paid. Short-term
+      disability benefit periods are typically 13 to 52 weeks; long-term may
+      extend to age 65 or for life in some policies.
+    tags: [Insurance, Disability, Terms]
+
+  - term: Group Life Insurance
+    definition: >-
+      Employer-provided life insurance coverage for employees, typically offered
+      as a multiple of salary (e.g., 1x, 2x annual salary). Includes basic life
+      and optional supplemental coverage for employees and dependents.
+    tags: [Insurance, Employee Benefits, Life]
+
+  - term: Accidental Death and Dismemberment (AD&D)
+    definition: >-
+      Insurance that pays a benefit if the insured dies or suffers specific injuries
+      (e.g., loss of limb, sight) due to an accident. Often bundled with group
+      life insurance as AD&D.
+    tags: [Insurance, Employee Benefits, Life]
+
+  - term: Absence Management
+    definition: >-
+      Administrative services that help employers manage employee leave including
+      FMLA, state leave laws, ADA accommodations, short-term disability, and
+      long-term disability claim coordination.
+    tags: [HR Services, Benefits Administration, Compliance]
+
+  - term: FMLA
+    definition: >-
+      Family and Medical Leave Act. A US federal law requiring covered employers
+      to provide employees up to 12 weeks of unpaid, job-protected leave per year
+      for specified family and medical reasons. The Standard provides FMLA
+      administration as part of its absence management services.
+    tags: [Compliance, Absence Management, Legal]
+
+  - term: Retirement Plans
+    definition: >-
+      Employer-sponsored retirement savings vehicles including 401(k), 403(b),
+      457, and other defined contribution plans. The Standard provides plan
+      administration, investment options, and participant services.
+    tags: [Financial Products, Retirement, Benefits]
+
+  - term: Individual Annuity
+    definition: >-
+      A contract between an individual and an insurance company providing a
+      guaranteed income stream, typically in retirement. The Standard offers
+      fixed deferred annuities providing tax-deferred accumulation.
+    tags: [Financial Products, Retirement, Insurance]
+
+  - term: Commercial Mortgage Loans
+    definition: >-
+      Fixed-rate loans originated by StanCorp Mortgage Investors, LLC for
+      commercial real estate properties. Provides investment returns for the
+      insurance company's general account portfolio.
+    tags: [Financial Services, Real Estate, Lending]
+
+  - term: Group Benefits
+    definition: >-
+      The collective suite of employer-sponsored insurance products offered by
+      The Standard including disability, life, dental, vision, and supplemental
+      health coverage purchased through employer group contracts.
+    tags: [Employee Benefits, Insurance, Core Concept]
+
+  - term: Guaranteed Standard Issue (GSI)
+    definition: >-
+      A group insurance enrollment provision allowing employees to obtain coverage
+      up to a specified amount without medical underwriting or evidence of
+      insurability. Standard feature in many employer group plans.
+    tags: [Insurance, Underwriting, Benefits]
+
+  - term: Own-Occupation Definition
+    definition: >-
+      A disability insurance policy provision defining disability as the inability
+      to perform the material duties of one's own specific occupation. The most
+      favorable definition for professional policyholders, especially doctors
+      and lawyers.
+    tags: [Disability Insurance, Definitions, Policy Terms]
+
+  - term: Meiji Yasuda
+    definition: >-
+      Meiji Yasuda Life Insurance Company, a Japanese insurance company that
+      acquired StanCorp Financial Group in March 2016 for approximately $5 billion.
+      Meiji Yasuda is one of Japan's oldest and largest life insurers, founded in 1881.
+    tags: [Parent Company, Corporate]

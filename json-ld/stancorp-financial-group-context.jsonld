@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "finserv": "https://finregont.com/fro/ref/",
+    "stancorp": "https://standard.com/vocab/",
+
+    "Organization": "schema:Organization",
+    "InsuranceCompany": "schema:Organization",
+    "FinancialProduct": "schema:FinancialProduct",
+    "InsuranceProduct": "stancorp:InsuranceProduct",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "legalName": "schema:legalName",
+    "parentOrganization": {
+      "@id": "schema:parentOrganization",
+      "@type": "schema:Organization"
+    },
+    "foundingDate": "schema:foundingDate",
+    "location": "schema:location",
+    "telephone": "schema:telephone",
+
+    "groupDisabilityInsurance": "stancorp:groupDisabilityInsurance",
+    "individualDisabilityInsurance": "stancorp:individualDisabilityInsurance",
+    "groupLifeInsurance": "stancorp:groupLifeInsurance",
+    "dentalInsurance": "stancorp:dentalInsurance",
+    "visionInsurance": "stancorp:visionInsurance",
+    "absenceManagement": "stancorp:absenceManagement",
+    "retirementPlans": "stancorp:retirementPlans",
+    "annuities": "stancorp:annuities",
+    "commercialMortgageLoans": "stancorp:commercialMortgageLoans",
+
+    "benefitAmount": "schema:amount",
+    "eliminationPeriod": "stancorp:eliminationPeriod",
+    "benefitPeriod": "stancorp:benefitPeriod",
+    "policyHolder": "schema:policyHolder",
+    "employer": {
+      "@id": "schema:employer",
+      "@type": "schema:Organization"
+    }
+  }
+}
