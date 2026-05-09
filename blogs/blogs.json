@@ -1,0 +1,14 @@
+{
+  "repo": "stancorp-financial-group",
+  "feeds": [
+    {
+      "source": "https://www.standard.com/get-to-know-standard/newsroom",
+      "feed_url": "",
+      "title": "",
+      "saved": 0,
+      "error": "no_feed"
+    }
+  ],
+  "fetched": "2026-05-09T20:17:51Z",
+  "post_count": 0
+}
