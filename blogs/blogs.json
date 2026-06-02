@@ -3,12 +3,12 @@
   "feeds": [
     {
       "source": "https://www.standard.com/get-to-know-standard/newsroom",
-      "feed_url": "",
+      "feed_url": "https://www.standard.com/get-to-know-standard/newsroom",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
