@@ -28,6 +28,8 @@ modified: '2026-05-02'
 position: Consumer
 x-fortune: Fortune 1000
 common:
+  - type: DomainSecurity
+    url: security/stancorp-financial-group-domain-security.yml
   - url: https://www.standard.com/
     type: Portal
   - url: https://www.standard.com/get-to-know-standard/our-story
