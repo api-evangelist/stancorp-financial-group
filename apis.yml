@@ -58,6 +58,8 @@ modified: '2026-05-02'
 position: Consuming
 x-fortune: Fortune 1000
 common:
+  - type: Website
+    url: https://www.standard.com/
   - type: DomainSecurity
     url: security/stancorp-financial-group-domain-security.yml
   - url: https://www.standard.com/
