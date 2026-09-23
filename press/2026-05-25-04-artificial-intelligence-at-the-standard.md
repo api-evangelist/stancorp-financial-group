@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence at The Standard
 url: https://www.standard.com/get-to-know-standard/legal-privacy/artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"StanCorp Financial Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: The Standard Names Porter Orr Second Vice President ...
 url: https://www.standard.com/get-to-know-standard/newsroom/press-releases/standard-names-porter-orr-second-vice-president-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"StanCorp Financial Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
