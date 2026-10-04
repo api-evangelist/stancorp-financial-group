@@ -16,7 +16,7 @@ tags:
   - Benefits Administration
   - Disability Insurance
   - Employee Benefits
-  - Financial-Services
+  - Financial Services
   - Insurance
   - Life Insurance
   - Retirement Plans
@@ -28,6 +28,7 @@ tags_raw:
   - Insurance
   - Life Insurance
   - Retirement Plans
+  - Financial-Services
 type: Index
 deliveryModel:
   model: unknown
