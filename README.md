@@ -1,4 +1,4 @@
-# StanCorp Financial Group (stancorp-financial-group)
+# StanCorp Financial Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,47 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-StanCorp Financial Group, Inc. (doing business as The Standard) is an insurance and financial services company headquartered in Portland, Oregon, and a wholly-owned subsidiary of Meiji Yasuda Life Insurance Company since 2016. Founded in 1906, The Standard offers group and individual disability insurance, group life and AD&D insurance, group dental and vision insurance, absence management services, retirement plans, individual annuities, and commercial mortgage loan origination. The Standard does not offer a public developer API; employer integrations are managed through EDI and proprietary data exchange channels.
+StanCorp Financial Group, Inc. (doing business as The Standard) is an insurance and financial services company headquartered in Portland, Oregon, and a wholly-owned subsidiary of Meiji Yasuda Life Insurance Company since 2016. Founded in 1906, The Standard offers group and individual disability insurance, group life and accidental death and dismemberment insurance, group dental and group vision insurance, absence management services, retirement plans, individual annuities, and commercial mortgage loan origination. The Standard does not offer a public developer API. Employer and benefits administrator integrations are managed through EDI and proprietary data exchange channels.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/stancorp-financial-group/refs/heads/main/apis.yml)
+**Areas:** Benefits Administration · Disability Insurance · Employee Benefits · Financial Services · Insurance · Life Insurance · Retirement Plans
 
-## Scope
+## StanCorp Financial Group on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for StanCorp Financial Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stancorp-financial-group/](https://apis.io/providers/stancorp-financial-group/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Benefits Administration
-- Disability Insurance
-- Employee Benefits
-- Financial Services
-- Insurance
-- Life Insurance
-- Retirement Plans
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### JSON-LD (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-02
+Linked-data contexts for the provider's vocabulary.
 
-## Common Properties
+- [Stancorp Financial Group Context](https://apis.io/jsonld/stancorp-financial-group/stancorp-financial-group-context/)
 
-- [Portal](https://www.standard.com/)
-- [About](https://www.standard.com/get-to-know-standard/our-story)
-- [Investor Relations](https://www.standard.com/get-to-know-standard/investor-relations/corporate-profile)
-- [News](https://www.standard.com/get-to-know-standard/newsroom)
-- [Group Benefits](https://www.standard.com/group-benefits)
-- [Retirement Plans](https://www.standard.com/retirement-plans)
-- [LinkedIn](https://www.linkedin.com/company/the-standard/)
+#### Vocabulary (1)
 
-## Artifacts
+The provider's domain terms, defined.
 
-### JSON-LD
+- [StanCorp Financial Group Vocabulary](https://apis.io/vocabularies/stancorp-financial-group/stancorp-financial-group-vocabulary/)
 
-- [Context](json-ld/stancorp-financial-group-context.jsonld)
+#### Security (1)
 
-### Vocabulary
+Authentication, trust centre, and vulnerability disclosure.
 
-- [StanCorp Financial Group Vocabulary](vocabulary/stancorp-financial-group-vocabulary.yml)
+- [Stancorp Financial Group Domain Security](https://apis.io/security/stancorp-financial-group/stancorp-financial-group-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.standard.com/)
+- [Documentation](https://www.standard.com/group-benefits)
+- [Blog](https://www.standard.com/get-to-know-standard/newsroom)
+
+## API Evangelist rating
+
+**Kin Score 10.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.6** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stancorp-financial-group/](https://apis.io/providers/stancorp-financial-group/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for StanCorp Financial Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stancorp-financial-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
